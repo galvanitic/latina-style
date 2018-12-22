@@ -21,3 +21,5 @@ This theme was developed for version 5.0.2
 Credits
 --------
 Bootsrap Framework: https://getbootstrap.com/
+
+Jetbrains ItelliJ: https://www.jetbrains.com/idea/
